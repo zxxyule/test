@@ -7,10 +7,4 @@ a
 b
 c
 d
-<<<<<<< HEAD
-f
-fjkdlajkfldj
-=======
-test--dev
->>>>>>> dev
-放大范德萨
+merge source

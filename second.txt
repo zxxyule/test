@@ -1,6 +1,3 @@
 aaaaaaaaaaaaaaaaaaa
-<<<<<<< HEAD
 bbbb
-=======
 bbbb
->>>>>>> dev

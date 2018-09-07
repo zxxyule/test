@@ -1,9 +1,1 @@
-the second file飞机离开大家
-<<<<<<< HEAD
-疯狂就对了的地方撒
-=======
-a
-b
-c
-d
-merge source
+this is merge source

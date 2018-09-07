@@ -1,2 +1,6 @@
 aaaaaaaaaaaaaaaaaaa
-bbbbc
+<<<<<<< HEAD
+bbbb
+=======
+bbbb
+>>>>>>> dev

@@ -1,8 +1,1 @@
-this is merge source
-<<<<<<< HEAD
-<<<<<<< HEAD
-this is master source
-=======
-this is master source
->>>>>>> dev
-
+aaaaaaaaaaaaaaaaaaa
